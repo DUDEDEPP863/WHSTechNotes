@@ -12,3 +12,7 @@ i can learn simple and common knowledge about football this year
 it does not have the same path with programing but i just like computer scinece
 # September 20,2024
 This is a free week.
+# October 15, 2024
+Coding creates Chat GPT whichg helps with solving problems
+I dont plan on using coding in my career
+Coding helps you meet new people and creat friends
