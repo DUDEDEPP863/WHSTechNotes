@@ -10,3 +10,5 @@ no programing skills will help with what i want to do in kmy carrer choices
 i need t least 3-4 years of experience with football
 i can learn simple and common knowledge about football this year
 it does not have the same path with programing but i just like computer scinece
+# September 20,2024
+This is a free week.
