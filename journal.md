@@ -1,3 +1,6 @@
+# october 25, 2024
+Helpful: reduce inefficiency in healthcare, improve patient flow and experience, and enhance caregiver experience and patient safety through the care pathway
+Harmful: it can be biased and is often gullible when responding to leading questions. it can be coaxed into creating toxic content and is prone to 'prompt injection attacks' it can be corrupted by manipulating the data used to train the model
 # september 25, 2024
 You don't need to make any changes with your teaching and there was no confusion what so ever
 I did encounter some issues trying to open github from the start, because I did not know how to download the file for github. I forgto what to do after the second set of instructions.
