@@ -1,3 +1,5 @@
+# october 28, 2024
+Users simply click the link, are automatically authenticated and allowed into the online voting system to cast their secure ballot. 
 # october 25, 2024
 Helpful: reduce inefficiency in healthcare, improve patient flow and experience, and enhance caregiver experience and patient safety through the care pathway
 Harmful: it can be biased and is often gullible when responding to leading questions. it can be coaxed into creating toxic content and is prone to 'prompt injection attacks' it can be corrupted by manipulating the data used to train the model
