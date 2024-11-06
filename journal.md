@@ -1,3 +1,9 @@
+# november 6, 2024
+if sensitive data falls into the wrong hands, it can lead to fraud, identity theft, or similar harms
+use strong, unique passwords, enable two-factor authentication, regularly review privacy settings, avoid sharing sensitive information, carefully audit your connected applications, and be mindful of what you post publicly
+its there forever, for every future college admissions representative, employer, or possible romantic interest to find and judge you for
+use dedicated collaboration platforms with strong privacy features, share only necessary information, leverage anonymous usernames, utilize private repositories for sensitive code, and clearly communicate your privacy boundaries with collaborators
+
 # october 28, 2024
 Users simply click the link, are automatically authenticated and allowed into the online voting system to cast their secure ballot. 
 # october 25, 2024
