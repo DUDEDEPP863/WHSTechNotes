@@ -1,7 +1,15 @@
+# December 16, 2024
+1: yes i am
+
+# December 9, 2024
+1: Brain rot is a condition of mental fogginess, lethargy, reduced attention span, and cognitive decline that results from an overabundance of screen time.
+2: Brain rot
+3: i dont thinos because people just doom scroll through short video
+
 # December 2, 2024
 1: my friends and meeting new people
-2:
-3:
+2: i could use this when i want to code in my free time
+3: AI decision-making transparency
 
 # November 18, 2024
 Smart appliances, voice-controlled cooking, efficient storage solutions, recipe assistance, and a focus on energy efficiency are transforming the culinary experience.
