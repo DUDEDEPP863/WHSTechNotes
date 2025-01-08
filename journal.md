@@ -1,3 +1,8 @@
+# January 8, 2025
+my attention could be improved
+maybe an athletic program
+no im not
+
 # December 16, 2024
 1: yes i am
 
