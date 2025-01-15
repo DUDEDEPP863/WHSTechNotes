@@ -1,3 +1,10 @@
+# January 14, 2025
+Desert Drones TSTEM Presentation
+
+
+# January 13, 2025
+By automating repetitive tasks, AI will also boost productivity and assist humans with enhanced data analytics, dynamic decision-making, and personalized recommendations
+
 # January 8, 2025
 my attention could be improved
 maybe an athletic program
@@ -35,7 +42,7 @@ With significant political ideologies across the country, candidates, campaigns,
 1:AI systems leveraging natural language processing (NLP) technology have the potential to automate administrative tasks such as documenting patient visits in electronic health records
 2:There's a risk of data breaches or unauthorized access, which could compromise privacy and confidentiality.
 
-# October 15, 2024
+October 15, 2024
 1:Coding teaches you to think logically.
 2:Not at all. Coding skills have become valuable across various industries. While it's beneficial for tech-related careers, coding enhances problem-solving, logical thinking, and creativity
 3:It encourages programmers to explore alternative paths, consider different perspectives, and devise unconventional solutions that may be more effective or elegant.
