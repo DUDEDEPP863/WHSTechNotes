@@ -1,6 +1,15 @@
+# January 22, 2025
+1.significantly hinders enterprises' investment in resources for technological innovation
+2.creating ads, setting budgets, reaching the right audience, and analyzing campaign data.
+3.detect and collect characteristics and features about the videos, images, and audio recordings that are part of your User Content
+4.The US security argument against TikTok starts with the simple concern that large amounts of user data could end up in China, where it could ultimately fall into the hands of the country's ruling Communist party.
+This measure unnecessarily restricts the right to freedom of expression, which includes the freedom to seek, receive and impart information. Rather than applying arbitrary bans, US authorities should introduce regulations that govern all tech platforms to protect everyone's human rights in the digital age.
+
+# January 15, 2025
+Baseball's conventional wisdom is all wrong. Faced with a tight budget, Beane must reinvent his team by outsmarting the richer ball clubs. Joining forces with Ivy League graduate Peter Brand (Jonah Hill), Beane prepares to challenge old-school traditions. He recruits bargain-bin players whom the scouts have labeled as flawed, but have game-winning potential. Based on the book by Michael Lewis.
+
 # January 14, 2025
 Desert Drones TSTEM Presentation
-
 
 # January 13, 2025
 By automating repetitive tasks, AI will also boost productivity and assist humans with enhanced data analytics, dynamic decision-making, and personalized recommendations
