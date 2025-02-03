@@ -1,3 +1,11 @@
+# February 3, 2025
+1.By continually optimizing and broadcasting their new trajectories, the drones avoid collisions
+2.constantly monitoring each user's software, hardware, and network, recognizing anomalies in real time, predicting potential issues, and taking preemptive action
+3.turning fixing vulnerabilities into preventing them.
+4.any UI design that the user finds difficult to navigate, is confusing, or frustrating to interact with.
+5.Yes, hacking, jamming, and cyber vulnerabilities pose significant risks in air traffic management,
+6.analyzing large datasets from various sources like sensors, historical accident data, and environmental factors to identify patterns and high-risk situations
+
 # January 22, 2025
 1.significantly hinders enterprises' investment in resources for technological innovation
 2.creating ads, setting budgets, reaching the right audience, and analyzing campaign data.
