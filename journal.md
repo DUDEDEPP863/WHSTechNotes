@@ -1,3 +1,11 @@
+# March 3, 2025
+Name	    Power	                 Challenge
+Zara	  Telekenesis         	Secure Building
+Aether	Weather Manipulation	Prevent Assassination
+Thorne	Invisibility	        Underwater Rescue
+Silver	Mind Control     	    Retrieve Stolen Goods
+Tangier	Shapeshifting        	Extract Prisoner
+
 # Febuary 11, 2025
 Results (filled automatically)
 Shape	Color	Count
