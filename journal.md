@@ -1,6 +1,8 @@
+# March 24, 2025
+No I don't believe in AI prediciments that would cause such issues. I would enjoyt games regardless
+
 # March 17, 2025
 The most widely used technologies i have include smartphones and mobile devices, the internet, social media, and cloud computing, with applications like apps, games, and programming tools also being very popular. Technology significantly impacts me by offering solutions to my challenges, revolutionizing entertainment, and also presents new challenges to me and  other individuals.
-
 
 # March 3, 2025
 Name	    Power	                 Challenge
