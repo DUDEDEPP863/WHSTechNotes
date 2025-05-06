@@ -1,3 +1,6 @@
+# May 5, 2025
+100 men should theoretically be cabable of taking down 1 adult male gorilla. Additionally my answer behind my theory is the fact that its 100 men versus one singular mamal. I believe any mamal wouldn't have the opportunity to go against 100 prime adult males.
+
 # March 24, 2025
 No I don't believe in AI prediciments that would cause such issues. I would enjoyt games regardless
 
