@@ -1,4 +1,7 @@
-# MAy 12,2025 
+# May 28,2025
+today i made a new journal
+
+# May 12,2025 
 helps you grasp the main ideas and central themes of a text
 
 # May 5, 2025
