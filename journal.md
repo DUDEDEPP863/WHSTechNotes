@@ -1,4 +1,19 @@
-# May 28,2025
+# September 30, 2025
+The phrase “6, 7” is a strange little code students toss around. Nobody really agrees on what it means. Some think it’s just a way to sound funny in the middle of class. Others believe it started as an inside joke that spread through the halls. The mood feels playful, not serious. Saying it lightens the moment. Maybe people keep repeating it because mystery itself is fun. Its dumb
+
+# September 22, 2025
+As with other forms of automation, virtual stores could speed up the displacement of traditional retail jobs. While new roles may be created, they are not guaranteed to provide the same level of employment or opportunity.
+
+# September 15, 2025
+By moving from simply using AI tools to building their own AI-powered projects, students learn critical thinking, data literacy, and ethical considerations. 
+
+# September 8, 2025
+working a salaried job, offering freelance services, building and selling your own software products, creating online content like courses or tutorials, or by starting a software-based business or startup
+
+# September 2, 2025
+Vibe coding, a term coined by AI researcher Andrej Karpathy, describes a development process where AI tools are heavily used to generate, refine, and debug code from natural language prompts. For computer science students, this approach presents both significant benefits and substantial risks to the learning process
+
+# May 28, 2025
 today i made a new journal
 
 # May 12,2025 
@@ -29,7 +44,6 @@ Square	Yellow	5
 Hexagon	Brown	6
 Triangle	Purple	4
 Octagon	Red	3
-
 
 # February 3, 2025
 1.By continually optimizing and broadcasting their new trajectories, the drones avoid collisions
