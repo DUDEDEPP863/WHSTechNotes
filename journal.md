@@ -1,3 +1,6 @@
+# October 8, 2025
+The technology rules focus on using devices the right way to help us learn more and keep us from getting distracted. Cell phones must stay in assigned spots during class, but Chromebooks are the main tools for all school work and research. We won't ban AI tools like ChatGPT; instead, we'll learn to use them correctly in our classes for better writing and critical thinking. All purely fun games, competitive sites, and social media will be blocked during school hours so everyone can focus. However, learning games for subjects like math or coding will be allowed during independent study periods. These steps will make school better by helping us learn deeply, teaching us essential AI skills, and turning our devices into useful tools instead of big distractions.
+
 # September 30, 2025
 The phrase “6, 7” is a strange little code students toss around. Nobody really agrees on what it means. Some think it’s just a way to sound funny in the middle of class. Others believe it started as an inside joke that spread through the halls. The mood feels playful, not serious. Saying it lightens the moment. Maybe people keep repeating it because mystery itself is fun. Its dumb
 
