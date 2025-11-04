@@ -1,4 +1,10 @@
-# October 8, 2025
+# November 3, 2025
+When the SNAP program runs out of funding, many families who rely on it to buy groceries struggle to afford healthy food. This is a big problem because it affects low-income households, children, and seniors who depend on these benefits for daily meals. Technology could help by connecting people to local food banks, community kitchens, or grocery stores that offer discounts or free meal programs. For example, an app could show nearby food resources and update in real time when supplies are available. However, challenges might include limited internet access, lack of smartphones, or privacy concerns for users sharing personal information. If I were the designer, I would create an app called FoodLink, which would map out nearby food resources, allow users to schedule pickups, and send alerts when new food assistance options become available.
+
+# October 14, 2025
+This journel is excused
+
+# October 6, 2025
 The technology rules focus on using devices the right way to help us learn more and keep us from getting distracted. Cell phones must stay in assigned spots during class, but Chromebooks are the main tools for all school work and research. We won't ban AI tools like ChatGPT; instead, we'll learn to use them correctly in our classes for better writing and critical thinking. All purely fun games, competitive sites, and social media will be blocked during school hours so everyone can focus. However, learning games for subjects like math or coding will be allowed during independent study periods. These steps will make school better by helping us learn deeply, teaching us essential AI skills, and turning our devices into useful tools instead of big distractions.
 
 # September 30, 2025
