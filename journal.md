@@ -3,6 +3,19 @@ When the SNAP program runs out of funding, many families who rely on it to buy g
 
 # October 27, 2025
 
+| Name     | Main Dish | Dessert |
+| :------- | :-------- | :------ |
+| Fiona    |           |         |
+| Tobias   |           |         |
+| Leanne   |           |         |
+
+# October 20, 2025
+| Name     | Class  | Seat |
+| :------- | :----  | :--- |
+| Franklin | second | 91A  |
+| Hardeep  | third  | 61F  |
+| Marla    | first  | 35B  |
+
 # October 14, 2025
 This journel is excused
 
