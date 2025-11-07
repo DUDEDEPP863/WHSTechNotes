@@ -1,6 +1,8 @@
 # November 3, 2025
 When the SNAP program runs out of funding, many families who rely on it to buy groceries struggle to afford healthy food. This is a big problem because it affects low-income households, children, and seniors who depend on these benefits for daily meals. Technology could help by connecting people to local food banks, community kitchens, or grocery stores that offer discounts or free meal programs. For example, an app could show nearby food resources and update in real time when supplies are available. However, challenges might include limited internet access, lack of smartphones, or privacy concerns for users sharing personal information. If I were the designer, I would create an app called FoodLink, which would map out nearby food resources, allow users to schedule pickups, and send alerts when new food assistance options become available.
 
+# October 27, 2025
+
 # October 14, 2025
 This journel is excused
 
