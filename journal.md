@@ -1,9 +1,12 @@
+# November 10, 2025
+I believe technology has changed the way people celebrate and connect during the holidays by making it easier to stay in touch, even from far away. Video calls, social media, and messaging apps allow families and friends to share moments instantly, no matter where they are. For example, grandparents can watch their grandchildren open gifts through a video chat, which keeps traditions alive despite distance. This makes the holidays better because it helps people feel closer and more included. However, constant notifications and screen time can sometimes distract from real-life interactions. That’s why I think developers should be responsible for ensuring holiday tech respects privacy and family time. By designing products that encourage balance and protect personal data, they can help families enjoy the best parts of both technology and togetherness.
+
 # November 3, 2025
 When the SNAP program runs out of funding, many families who rely on it to buy groceries struggle to afford healthy food. This is a big problem because it affects low-income households, children, and seniors who depend on these benefits for daily meals. Technology could help by connecting people to local food banks, community kitchens, or grocery stores that offer discounts or free meal programs. For example, an app could show nearby food resources and update in real time when supplies are available. However, challenges might include limited internet access, lack of smartphones, or privacy concerns for users sharing personal information. If I were the designer, I would create an app called FoodLink, which would map out nearby food resources, allow users to schedule pickups, and send alerts when new food assistance options become available.
 
 # October 27, 2025
 
-| Name     | Main Dish | Dessert |
+| Name     | Main Dish | Dessert | worked on with Whitby
 | :------- | :-------- | :------ |
 | Fiona    |           |         |
 | Tobias   |           |         |
