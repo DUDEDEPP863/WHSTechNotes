@@ -1,3 +1,12 @@
+# December 8, 2025
+A job that uses drones is a drone programmer. They’re the ones who write the code that tells drones how to fly, avoid obstacles, and complete missions like deliveries or taking photos. According to Indeed, drone programmers in Texas make around $85,000 a year, which is pretty awesome. Most of them need a Part 107 license from the FAA and should know programming languages like Python or C++. They also have to understand sensors and GPS systems so the drones don’t crash. It sounds like a cool job if you’re into tech and flying gadgets, but honestly, I don’t think I’d want to do it. Sitting at a computer coding all day just isn’t my thing—I’d rather be out actually flying the drones.
+
+# December 1, 2025
+A cool job that uses drones is a drone programmer. These are the people who write the code that tells drones how to fly, avoid stuff, and do things like deliver packages or take pictures. According to Indeed, drone programmers in Texas make around $85,000 a year, which is pretty sweet money. Most of them need a Part 107 license from the FAA and usually know programming languages like Python or C++. They also need to understand how sensors and GPS work so the drones don’t crash. Honestly, it sounds like a fun job if you’re into tech and flying gadgets, but I don’t think I’d want to do it. Sitting at a computer coding all day just isn’t my vibe—I’d rather be out actually flying the drones.
+
+# November 17, 2025
+yes
+
 # November 10, 2025
 I believe technology has changed the way people celebrate and connect during the holidays by making it easier to stay in touch, even from far away. Video calls, social media, and messaging apps allow families and friends to share moments instantly, no matter where they are. For example, grandparents can watch their grandchildren open gifts through a video chat, which keeps traditions alive despite distance. This makes the holidays better because it helps people feel closer and more included. However, constant notifications and screen time can sometimes distract from real-life interactions. That’s why I think developers should be responsible for ensuring holiday tech respects privacy and family time. By designing products that encourage balance and protect personal data, they can help families enjoy the best parts of both technology and togetherness.
 
