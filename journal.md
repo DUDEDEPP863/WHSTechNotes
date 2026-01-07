@@ -1,3 +1,6 @@
+# January , 2026
+No technology used over the break. Just music
+
 # December 8, 2025
 A job that uses drones is a drone programmer. They’re the ones who write the code that tells drones how to fly, avoid obstacles, and complete missions like deliveries or taking photos. According to Indeed, drone programmers in Texas make around $85,000 a year, which is pretty awesome. Most of them need a Part 107 license from the FAA and should know programming languages like Python or C++. They also have to understand sensors and GPS systems so the drones don’t crash. It sounds like a cool job if you’re into tech and flying gadgets, but honestly, I don’t think I’d want to do it. Sitting at a computer coding all day just isn’t my thing—I’d rather be out actually flying the drones.
 
