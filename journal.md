@@ -1,4 +1,8 @@
-# January , 2026
+# January 9, 2025
+We should not eat or drink at the computers and should always clean up after ourselves because these rules help protect our technology, keep our classroom clean, and teach us responsibility.
+First, eating or drinking near computers can easily cause damage. If a drink spills on a keyboard or computer, it can short-circuit the system and cost a lot of money to repair or replace. Even small crumbs can get stuck in keyboards or attract pests, which can make the classroom dirty and unpleasant. Second, when students leave trash or food behind, it creates extra work for the teacher and custodians. A messy classroom can distract others and make it harder for everyone to focus on learning. Keeping the room clean shows respect for the shared space and for the people who use it after us.
+These rules matter because they help us build good habits that we will need in the future. In most workplaces, eating or drinking near expensive equipment is not allowed, and employees are expected to clean up after themselves. Following these expectations now prepares us for those environments. It also shows responsibility and respect for our classmates and teachers. When everyone follows the rules, the classroom stays organized, safe, and welcoming for everyone.
+# January 6, 2026
 No technology used over the break. Just music
 
 # December 8, 2025
