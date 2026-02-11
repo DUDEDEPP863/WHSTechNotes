@@ -1,14 +1,14 @@
+# Febuary 10, 2026
+I dont enjoy football, I never found it entertaining
+I did not watch the Super Bowel XL
+..
+
 # Febuary 2, 2026 
 1. Personal hygiene and self-care are important in shared environments because they show respect for others and help maintain a clean, healthy, and comfortable space for everyone.
-
 2. Loud conversations, strong smells, or distracting behaviors can make it hard for others to focus and can create discomfort or tension in shared spaces.
-
 3. Reasonable expectations for professional behavior include using respectful language, keeping noise levels appropriate, maintaining personal space, and being aware of how your actions affect others.
-
 4. Self-regulation is important because it helps people manage their emotions and reactions, allowing them to stay calm, respectful, and productive in school and workplace settings.
-
 5. One habit I can work on is being more aware of my volume when speaking so I don’t distract others who are trying to concentrate.
-
 
 # January 20, 2026
 One way technology can help create fairness is by giving people equal access to information and education. For example, online learning platforms allow students from different backgrounds and locations to access the same lessons and resources. This matters because education is a powerful tool for equality—when everyone has the chance to learn, they have more opportunities to succeed. Technology also helps people share their voices through social media, bringing attention to issues of injustice that might otherwise be ignored. By connecting people and spreading awareness, technology helps build a more fair and just society where everyone’s voice can be heard.
